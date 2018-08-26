@@ -1,0 +1,3 @@
+#Ignore credentials
+credentials.json
+.vscode/settings.json
